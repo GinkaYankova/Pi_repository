@@ -1,2 +1,2 @@
 # Pi_repository
-this file is created as an exercise in the CodeRefinery workshop
+https://github.com/GinkaYankova/Pi_repository/edit/main/Pi.ipynb 
